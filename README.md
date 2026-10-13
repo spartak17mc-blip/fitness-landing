@@ -21,10 +21,7 @@
 
 Сборка не нужна.
 
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/spartak17mc-blip/fitness-landing.git
-   ```
+1. Скачайте или клонируйте репозиторий.
 2. Откройте `index.html` в браузере.
 
 Или запустите локальный сервер:
@@ -35,9 +32,9 @@ python -m http.server 8000
 
 и откройте http://localhost:8000.
 
-## Онлайн-версия
+## Деплой
 
-https://spartak17mc-blip.github.io/fitness-landing/
+Сайт статический: достаточно загрузить `index.html` на GitHub Pages, Netlify или Vercel.
 
 ## Подключение реальной отправки заявок
 
